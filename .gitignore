@@ -1,2 +1,3 @@
 dist/
 poetry.lock
+semithuesystem/__pycache__
